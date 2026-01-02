@@ -1,0 +1,9 @@
+{
+	"name": "spotify-dataproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58ed9674-ffc9-4647-ab88-1039ecdacbde",
+		"tenantId": "c9e77828-6904-429b-883a-dfc4b8c6753e"
+	}
+}
